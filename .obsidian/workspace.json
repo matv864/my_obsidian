@@ -11,12 +11,14 @@
             "id": "86c920465ae87eb6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "split-diff-view",
               "state": {
-                "file": "english/books/old.pdf"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file-text",
-              "title": "old"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -148,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of LR6"
             }
+          },
+          {
+            "id": "68ec0687b2999387",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +181,8 @@
   },
   "active": "86c920465ae87eb6",
   "lastOpenFiles": [
-    "english/books/temp.md",
     "english/books/old.pdf",
+    "english/books/temp.md",
     "english/books/new.pdf",
     "matstat/LR6.md",
     "english/books",
