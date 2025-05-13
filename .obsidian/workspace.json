@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86c920465ae87eb6",
+            "id": "edbaced42404c867",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "english/books/old_2.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file-text",
+              "title": "old_2"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da01db49f3fb8187",
@@ -166,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86c920465ae87eb6",
+  "active": "edbaced42404c867",
   "lastOpenFiles": [
     "english/books/old.pdf",
-    "english/books/temp.md",
+    "english/books/old_2.pdf",
     "english/books/new.pdf",
+    "matstat/images/6_formula_1.png",
     "matstat/LR6.md",
+    "2025-05-13.md",
+    "english/books/temp.md",
     "english/books",
     "english/new.pdf",
     "english/old.pdf",
     "english",
-    "matstat/images/6_formula_1.png",
     "matstat/images/6_task_3.png",
     "matstat/images/6_task_2.png",
     "matstat/images/6_task_1.png",
