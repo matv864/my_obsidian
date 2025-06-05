@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "439972eefb476287",
+        "id": "31046b029295c7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "edbaced42404c867",
+            "id": "5fc3057f562e7df6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "english/books/old_2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "old_2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da01db49f3fb8187",
@@ -178,11 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edbaced42404c867",
+  "active": "f73fc528e4fd52b1",
   "lastOpenFiles": [
-    "english/books/old.pdf",
-    "english/books/old_2.pdf",
+    "диффуры/КР2.md",
     "english/books/new.pdf",
+    "диффуры",
+    "english/books/old_2.pdf",
+    "english/books/old.pdf",
     "matstat/images/6_formula_1.png",
     "matstat/LR6.md",
     "2025-05-13.md",
