@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "926976aacc436e4e",
+        "id": "94ff558e09525f37",
         "type": "tabs",
         "children": [
           {
-            "id": "94994cd94caef97c",
+            "id": "521b2f4e7300a29d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "матстат/LR6.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LR6"
-            }
-          },
-          {
-            "id": "39120138475b3e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "матстат/лекции/лекция 6 01.04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "лекция 6 01.04"
-            }
-          },
-          {
-            "id": "b7338bda9357798c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "матстат/лекции/лекция 7 08.04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "лекция 7 08.04"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da01db49f3fb8187",
@@ -208,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7338bda9357798c",
+  "active": "521b2f4e7300a29d",
   "lastOpenFiles": [
-    "матстат/лекции/лекция 6 01.04.md",
+    "матстат/лекции/лекция 10 06.05.md",
     "матстат/лекции/лекция 7 08.04.md",
+    "матстат/лекции/лекция 6 01.04.md",
     "матстат/LR6.md",
     "матстат/лекции",
     "диффуры/КР2.md",
