@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "31046b029295c7b1",
+        "id": "926976aacc436e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc3057f562e7df6",
+            "id": "94994cd94caef97c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "матстат/LR6.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LR6"
+            }
+          },
+          {
+            "id": "39120138475b3e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "матстат/лекции/лекция 6 01.04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "лекция 6 01.04"
+            }
+          },
+          {
+            "id": "b7338bda9357798c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "матстат/лекции/лекция 7 08.04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "лекция 7 08.04"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,25 +208,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f73fc528e4fd52b1",
+  "active": "b7338bda9357798c",
   "lastOpenFiles": [
+    "матстат/лекции/лекция 6 01.04.md",
+    "матстат/лекции/лекция 7 08.04.md",
+    "матстат/LR6.md",
+    "матстат/лекции",
     "диффуры/КР2.md",
     "english/books/new.pdf",
     "диффуры",
     "english/books/old_2.pdf",
     "english/books/old.pdf",
-    "matstat/images/6_formula_1.png",
-    "matstat/LR6.md",
+    "матстат/images/6_formula_1.png",
     "2025-05-13.md",
     "english/books/temp.md",
     "english/books",
     "english/new.pdf",
     "english/old.pdf",
     "english",
-    "matstat/images/6_task_3.png",
-    "matstat/images/6_task_2.png",
-    "matstat/images/6_task_1.png",
-    "matstat/images",
-    "matstat"
+    "матстат/images/6_task_3.png",
+    "матстат/images/6_task_2.png",
+    "матстат/images/6_task_1.png",
+    "матстат/images"
   ]
 }
